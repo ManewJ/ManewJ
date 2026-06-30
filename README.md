@@ -1,5 +1,5 @@
 Olá! Eu sou o Manoel Justino, desenvolvedor frontend em busca da primeira oportunidade! 👋
-Hello! I'm Manoel Justino, a frontend developer looking for my first opportunity!👋
+
 
 [![Skill Icons](https://skillicons.dev/icons?i=react,js,ts,vite,tailwind,firebase,cypress,git)](https://skillicons.dev)
 
